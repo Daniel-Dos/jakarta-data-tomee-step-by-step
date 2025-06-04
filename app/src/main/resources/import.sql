@@ -1,0 +1,10 @@
+INSERT INTO ffcharacter (name, eikon, dominant) VALUES ('Clive Rosfield', 'Ifrit', true);
+INSERT INTO ffcharacter (name, eikon, dominant) VALUES ('Joshua Rosfield', 'Phoenix', true);
+INSERT INTO ffcharacter (name, eikon, dominant) VALUES ('Jill Warrick', 'Shiva', true);
+INSERT INTO ffcharacter (name, eikon, dominant) VALUES ('Benedikta Harman', 'Garuda', true);
+INSERT INTO ffcharacter (name, eikon, dominant) VALUES ('Hugo Kupka', 'Titan', true);
+INSERT INTO ffcharacter (name, eikon, dominant) VALUES ('Dion Lesage', 'Bahamut', true);
+INSERT INTO ffcharacter (name, eikon, dominant) VALUES ('Barnabas Tharmr', 'Odin', true);
+INSERT INTO ffcharacter (name, eikon, dominant) VALUES ('Cidolfus Telamon', 'Ramuh', true);
+INSERT INTO ffcharacter (name, eikon, dominant) VALUES ('Kupka Guard', NULL, false);
+INSERT INTO ffcharacter (name, eikon, dominant) VALUES ('Torgal', NULL, false);
